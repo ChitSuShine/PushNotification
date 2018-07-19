@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1070140115909",
+    "firebase_url": "https://pushnotiuni.firebaseio.com",
+    "project_id": "pushnotiuni",
+    "storage_bucket": "pushnotiuni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070140115909:android:983bcf96c4c615fa",
+        "android_client_info": {
+          "package_name": "com.shine.pushnotiuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070140115909-pjr01siv5t3mqcn0qda2bds028jecofc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-UKrfVIKEXmbf3ZT0fZM_B8TWOQTAHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
